@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/shashankku85367" target="blank"><img src="https://img.shields.io/twitter/follow/shashankku85367?logo=twitter&style=for-the-badge" alt="shashankku85367" /></a> </p>
 
-- 🔭 I’m currently working on **Cafe Website**
+- 🔭 I’m currently working on **E-Commerce Website**
 
 - 🌱 I’m currently learning **React**
 
